@@ -1,0 +1,18 @@
+.counter{
+  text-align: center;
+}
+button{
+  margin-left: 10px;
+  border-radius: 50px;
+  width: 30px;
+  height: 30px;
+  color: white;
+}
+.addbtn{
+  background-image: linear-gradient( white,black);
+  border-color:silver ;
+}
+.lessbtn{
+  background-image: linear-gradient( black,white);
+  border-color:silver ;
+}
